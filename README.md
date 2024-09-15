@@ -6,7 +6,8 @@
 
 **fowlermatt/fowlermatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
