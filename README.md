@@ -19,7 +19,7 @@
 # About me
 🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
-📖 Currently Expanding skills in Full Stack Development 
+📖 Currently Learning Vue.js and TypeScript
 
 💻 Currently working on To be Determined
 
