@@ -4,6 +4,6 @@
 
 
 
-## About me
+# About me
 🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
