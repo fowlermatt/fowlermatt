@@ -1,0 +1,42 @@
+name: Update generated README
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"  # Runs every hour
+  workflow_dispatch:       # Allows manual triggering of the workflow
+
+permissions:
+  contents: write
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # Use the latest version
+
+      - name: Generate README using readme-scribe
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}  # Use your personal GitHub token
+        with:
+          template: "templates/README.md.tpl"  # Path to your template file
+          writeTo: "README.md"                 # Output file
+
+      - name: Upload README
+        uses: actions/upload-artifact@v3
+        with:
+          name: README.md
+          path: README.md
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: main
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
