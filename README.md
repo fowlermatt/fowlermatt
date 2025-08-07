@@ -16,9 +16,10 @@
 # About me
 🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
-📖 Currently Learning Vue.js and TypeScript
+📖 Currently Learning
 
-💻 Currently working on To be Determined
+## 💻 Currently working on :
+### Paralegal-AI - Legal AI assistant that provide accurate, citable answers from a curated legal knowledge base.
 
 ## 👷 I'm currently working on
 <!--{{range recentContributions 5}}
