@@ -14,9 +14,9 @@
 
 
 # About me
-🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
+🎓 Recent gradute in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
-📖 Currently Learning
+📖 Currently Learning: Langchain
 
 ## 💻 Currently working on :
 ### Paralegal-AI - Legal AI assistant that provide accurate, citable answers from a curated legal knowledge base.
