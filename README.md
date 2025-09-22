@@ -16,13 +16,12 @@
 # About me
 🎓 Recent gradute in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
-📖 Currently Learning: Langchain
+📖 Currently Learning: Go
 
 ## 💻 Currently working on :
-### Paralegal-AI:
+### LegalAI assistant:
+
 Legal AI assistant that provide accurate, citable answers from a curated legal knowledge base.
-### LocalChat:
-Privacy-first, local-only AI chat application, allowing them to either use cloud-based APIs or to run open-weight models locally, ensuring all data and conversations remain on their device.
 ## 👷 I'm currently working on
 <!--{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
