@@ -19,9 +19,6 @@
 📖 Currently Learning: Go
 
 ## 💻 Currently working on :
-### LegalAI assistant:
-
-Legal AI assistant that provide accurate, citable answers from a curated legal knowledge base.
 ## 👷 I'm currently working on
 <!--{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
