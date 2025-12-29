@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Matthew Fowler</h1>
-  <h3 align="center">Software Engineer | Systems Architect | Builder</h3>
+  <h3 align="center">Software Engineer </h3>
   <p align="center">
     <em>"Complexity is the enemy of execution."</em>
   </p>
@@ -10,9 +10,9 @@
 
 ### ⚡ About Me
 
-I am a software engineer focused on building **scalable backend systems**, **AI-driven applications**, and **high-performance web infrastructure**.
+I am a software engineer passionate about building **robust**, **high-performance systems**, **AI-Driven applications**.
 
-* **Current Focus:** Distributed systems, AI Agents, and Reinforcement Learning.
+* **Current Focus:** Distributed systems and AI coding agents.
 * **Philosophy:** First-principles thinking. I believe in stripping problems down to their core to find the most efficient solution.
 
 ---
