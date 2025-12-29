@@ -44,10 +44,10 @@ I'm interested the intersection of **performant backends** and **reactive fronte
 
 ### 🚀 Featured Engineering
 
-#### [Test](https://github.com/fowlermatt/)
-> *Test*
-* **Architecture:** Test.
-* **Key Tech:** Test.
+#### [QueryBox]([https://github.com/fowlermatt/querybox](https://github.com/fowlermatt/query-csv))
+> *In-Browser SQL Query Engine & Data Visualization Tool*
+* **Architecture:** Designed a non-blocking, multi-threaded system where the DuckDB engine runs inside a Web Worker. Implemented **zero-copy data transfer** using Apache Arrow IPC buffers to pass large datasets between threads without serialization overhead.
+* **Key Tech:** DuckDB-WASM, Apache Arrow, Web Workers, React, TypeScript, TanStack Table.
 
 #### [Test](https://github.com/fowlermatt/)
 > *Test *
