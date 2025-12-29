@@ -1,26 +1,57 @@
-# Hi there, I'm Matt! :wave:
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<div align="center">
+  <h1 align="center">Matthew Fowler</h1>
+  <h3 align="center">Software Engineer | Systems Architect | Builder</h3>
+  <p align="center">
+    <em>"Complexity is the enemy of execution."</em>
+  </p>
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<a href="https://www.linkedin.com/in/matthew-fowler-b05942256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+---
 
+### ⚡ About Me
 
-# About me
-🎓 Recent gradute in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
+I am a software engineer focused on building **scalable backend systems**, **AI-driven applications**, and **high-performance web infrastructure**.
 
-📖 Currently Learning: Go
+* **Current Focus:** Distributed systems, AI Agents, and Reinforcement Learning.
+* **Philosophy:** First-principles thinking. I believe in stripping problems down to their core to find the most efficient solution.
 
-## 💻 Currently working on :
+---
 
-<!--{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}-->
+### 🔗 Network & Resources
 
+| **Platform** | **Link** |
+| :--- | :--- |
+| 🌐 **Portfolio** | [matthewfowler.dev](https://matthewfowler.dev) |
+| 📄 **Resume** | [View Resume / CV](YOUR_RESUME_LINK_HERE) |
+| 👔 **LinkedIn** | [linkedin.com/in/matthew-fowler](https://www.linkedin.com/in/matthew-fowler-b05942256/) |
+| 📧 **Email** | [contact@matthewfowler.dev](mailto:contact@matthewfowler.dev) |
+| 📝 **Blog / Other** | [Link to Blog or Other Resource](YOUR_LINK_HERE) |
+
+---
+
+### 🛠️ Technical Arsenal
+
+I'm interested the intersection of **performant backends** and **reactive frontends**.
+
+| **Core Stack** | **Infrastructure & Tools** | **Currently Exploring** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** (FastAPI) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) **AWS** | System Design |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) **TypeScript** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker** | Multi-Agent LLMs |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) **React** | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) **PostgreSQL** | System Observability |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) **Next.js** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) **Claude** (AI Agents) | Coding Agents |
+
+---
+
+### 🚀 Featured Engineering
+
+#### [Test](https://github.com/fowlermatt/)
+> *Test*
+* **Architecture:** Test.
+* **Key Tech:** Test.
+
+#### [Test](https://github.com/fowlermatt/)
+> *Test *
+* **Challenge:** Test.
+* **Key Tech:** Test.
+
+---
