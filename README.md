@@ -49,9 +49,9 @@ I'm interested the intersection of **performant backends** and **reactive fronte
 * **Architecture:** Designed a non-blocking, multi-threaded system where the DuckDB engine runs inside a Web Worker. Implemented **zero-copy data transfer** using Apache Arrow IPC buffers to pass large datasets between threads without serialization overhead.
 * **Key Tech:** DuckDB-WASM, Apache Arrow, Web Workers, React, TypeScript, TanStack Table.
 
-#### [Test](https://github.com/fowlermatt/)
-> *Test *
-* **Challenge:** Test.
-* **Key Tech:** Test.
+#### [AutoDev](https://github.com/fowlermatt/Self-Fix-CI-CD-Agent/)
+> *Autonomous Self-Repairing CI/CD Agent*
+* **Architecture**: Designed an event-driven distributed system where webhook listeners are decoupled from heavy processing using a Redis-backed task queue. Implemented a closed-loop remediation agent that autonomously parses logs, applies file-system patches, and verifies builds locally before committing fixes.
+* **Key Tech:**: Python, FastAPI, Celery, Redis, Docker, OpenAI API, GitHub Actions.
 
 ---
